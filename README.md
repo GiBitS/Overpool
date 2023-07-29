@@ -1,4 +1,4 @@
-# Overpool
+# poolNet
 
 > A Turing-complete Decentralized Ledger of Offchain Bitcoin Transactions
 
